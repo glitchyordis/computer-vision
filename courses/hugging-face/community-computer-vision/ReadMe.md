@@ -1,0 +1,1 @@
+This folder contains notes and codes from the [Community Computer Vision course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome) on Hugging Face
